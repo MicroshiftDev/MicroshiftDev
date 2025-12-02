@@ -1,6 +1,3 @@
+I'm a 16-year-old beginner programmer studying to be a software engineer at a technical school. I enjoy creating websites, writing code in C#, C++, and Python, and tinkering with gaming projects. In the future, I want to become a game developer and develop my own ideas. 
 
-👋 About Me
-Hi there! I'm a passionate Minecraft plugin developer focused on creating custom, high-performance, and user-friendly tools to enhance server administration and player experience.
-I specialize in Spigot/Paper plugin development, with a strong emphasis on clean code architecture, configuration flexibility, and feature-rich functionality.
-
-Whether you're a server owner looking for better chat control or an admin needing powerful moderation tools — my plugins aim to give you the tools you need to manage your community effectively.
+Besides programming, I record rap, write lyrics, and constantly hone my style and flow. I'm interested in anime, technology, and Rubik's Cubes—from simple 3x3 cubes to more complex models. I strive to develop myself every day, embrace my life, and move forward step by step.
