@@ -1,3 +1,164 @@
-I'm a 16-year-old beginner programmer studying to be a software engineer at a technical school. I enjoy creating websites, writing code in C#, C++, and Python, and tinkering with gaming projects. In the future, I want to become a game developer and develop my own ideas. 
+<div align="center">
 
-Besides programming, I record rap, write lyrics, and constantly hone my style and flow. I'm interested in anime, technology, and Rubik's Cubes—from simple 3x3 cubes to more complex models. I strive to develop myself every day, embrace my life, and move forward step by step.
+# 👋 Hey, I'm [Your Name]
+
+### 16 | Aspiring Software Engineer | Creative Mind
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time;Game+Developer+in+the+making;Rapper+%7C+Coder+%7C+Creator" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **16-year-old programmer** studying at a technical school to become a **software engineer**. My passion lies in creating digital experiences and bringing ideas to life through code.
+```ascii
+    ╔═══════════════════════════════╗
+    ║  Code → Create → Innovate     ║
+    ╚═══════════════════════════════╝
+```
+
+> *"Every day is a step forward, every challenge is an opportunity to grow."*
+
+---
+
+## 💻 Tech Stack & Skills
+
+<div align="center">
+
+### Languages I Speak (to computers)
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+### 🎯 What I'm Working On
+
+- 🌐 **Web Development** - Crafting responsive and interactive websites
+- 🎮 **Game Development** - Building gaming projects and learning game mechanics
+- 🔧 **Personal Projects** - Experimenting with new technologies and ideas
+
+---
+
+## 🎨 Beyond the Code
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎤 Music & Rap
+- Recording original tracks
+- Writing lyrics & storytelling
+- Perfecting my flow and style
+- Expressing creativity through rhythm
+
+</td>
+<td width="50%">
+
+### 🧩 Other Passions
+- 📺 **Anime** enthusiast
+- 💻 **Technology** explorer
+- 🎲 **Rubik's Cubes** - from 3x3 to complex models
+- 📚 Continuous **self-improvement**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Future Goals
+
+<div align="center">
+```mermaid
+graph LR
+    A[Now: Student] --> B[Software Engineer]
+    B --> C[Game Developer]
+    C --> D[Create My Own Games]
+    D --> E[Inspire Others]
+    
+    style A fill:#00d4ff
+    style B fill:#0099ff
+    style C fill:#0066ff
+    style D fill:#0033ff
+    style E fill:#6600ff
+```
+
+</div>
+
+- 🎮 Become a professional **Game Developer**
+- 💡 Develop and publish my own **gaming ideas**
+- 🚀 Build projects that **inspire** others
+- 📈 Never stop **learning and growing**
+
+---
+
+## 📊 My Journey
+
+<div align="center">
+```
+Progress: [████████░░] 80% Complete
+
+┌─────────────────────────────────────┐
+│ Learning:    ████████████████░░ 85% │
+│ Creating:    ██████████████░░░░ 70% │
+│ Improving:   ███████████████░░░ 75% │
+│ Dreaming:    ████████████████████ 100% │
+└─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🌟 Philosophy
+
+<div align="center">
+
+### *"Step by step, day by day"*
+
+I believe in **continuous growth**, **embracing challenges**, and **moving forward** no matter what. Every line of code, every lyric written, every puzzle solved is a step toward becoming the person I want to be.
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](your-github-link)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-discord)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+**Open to collaborations, projects, and new opportunities!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Current Mood
+```
+while (alive) {
+    learn();
+    create();
+    improve();
+    repeat();
+}
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+
+---
+
+⭐️ *Made with passion, code, and a lot of coffee* ☕
+
+</div>
