@@ -4,7 +4,7 @@
 
 ### 16 | Aspiring Software Engineer | Creative Mind
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time;Game+Developer+in+the+making;Rapper+%7C+Coder+%7C+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Rapper+%7C+Coder+%7C+Creator" alt="Typing SVG" />
 
 </div>
 
