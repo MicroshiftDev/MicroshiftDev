@@ -82,7 +82,6 @@ while (alive) {
 }
 ```
 
-![Profile Views]()
 
 ---
 
