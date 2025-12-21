@@ -82,7 +82,7 @@ while (alive) {
 }
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views]()
 
 ---
 
