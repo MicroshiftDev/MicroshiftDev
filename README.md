@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Yng Mikoczan
 
-### 16 | Aspiring Software Engineer | Creative Mind
+### 17 | Aspiring Software Engineer | Creative Mind
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Rapper+%7C+Coder+%7C+Creator" alt="Typing SVG" />
 
